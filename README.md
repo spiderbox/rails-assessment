@@ -1,9 +1,9 @@
-# SpiderBox Design Ruby on Rails Assessment
+# SpiderBox Design Assessment
 
 ## 1. THE URL SHORTENER CHALLENGE
 
-Your mission is to make a URL shortener full-stack application using any database engine, Ruby On Rails, (bonus points if the frontend is a SPA in ReactJS).
-Create one repo if you work entirely with RoR, or two repos if you work with Rails + React. Send us the links of both repositories.
+Your mission is to make a URL shortener full-stack application using any database engine, Ruby On Rails or Laravel, (bonus points if the frontend is a SPA in ReactJS).
+Create one repo if you work entirely with RoR/Laravel, or two repos if you work with Rails/Laravel + React. Send us the links of both repositories.
 
 +kudos If you use docker, that would be great and give extra points.
 
