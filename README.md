@@ -53,9 +53,9 @@ There must be a view for the Top 100 most frequently accessed URLs.
 
 <br />
 
-Your mission is to make a project management full-stack application using Postgres DB, Ruby On Rails (bonus points if the frontend is a SPA in ReactJS).
+Your mission is to make a project management full-stack application using Postgres DB, Ruby On Rails or Laravel (bonus points if the frontend is a SPA in ReactJS).
 
-Create one repo if you work entirely with RoR or two repos if you work with Rails + React. Send us the links of both repositories.
+Create one repo if you work entirely with RoR/Laravel or two repos if you work with Rails + React. Send us the links of both repositories.
 
 <br />
 
